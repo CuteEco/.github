@@ -16,7 +16,7 @@ who'll sponsor me by starring this project. Well, I hope :harold:
 And, I also understand that through the time this project will become like my nightmare. I just hope
 it will not be so soon.
 
-Anyway, ~enjoy your development~
+Anyway, \~enjoy your development\~
 
 <h2 align="center"><code> - - GOALS - -</code></h2>
 
