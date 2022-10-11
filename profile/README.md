@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-	<img src="../assets/CuteEcoLogoAndName.png" />
+	<img src="https://github.com/CuteEco/.github/blob/35d9084055c9d695f539d272501cd7ee624d674d/assets/CuteEcoLogoAndName.png" />
 </p>
 
 <div align="center">
